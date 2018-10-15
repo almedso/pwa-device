@@ -1,0 +1,11 @@
+{
+  "npmScope": "angemb",
+  "projects": {
+    "pwa-device": {
+      "tags": []
+    },
+    "pwa-device-e2e": {
+      "tags": []
+    }
+  }
+}
